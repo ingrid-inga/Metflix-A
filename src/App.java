@@ -47,6 +47,14 @@ public class App {
             System.out.println("El link del websodio es: " + websodio.getLink());
         }
 
+        miMetflix.imprimirSeriesDondeActuaActor("Cobie Smulders");
+
+        //System.out.println("Ingrese actor a buscar: ");
+        //String  actorSerie = Teclado.toString();
+        //Teclado.nextLine();
+
+        //System.out.println("El actor " + actor.getNombre() + " actua en " + series.getNombre());
+
     }
 }
 
